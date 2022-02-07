@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">948452160682-39et704e6kvaoq3389ipabvqcc3bb77b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">948452160682</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwrGZnOpyQC_HGUAQlkzpEo3FQCiZvNOE</string>
+    <string name="google_app_id" translatable="false">1:948452160682:android:625283a73382c12aff8cd3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwrGZnOpyQC_HGUAQlkzpEo3FQCiZvNOE</string>
+    <string name="google_storage_bucket" translatable="false">covid19-vaccine-management.appspot.com</string>
+    <string name="project_id" translatable="false">covid19-vaccine-management</string>
+</resources>

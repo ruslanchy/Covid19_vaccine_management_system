@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948452160682",
+    "project_id": "covid19-vaccine-management",
+    "storage_bucket": "covid19-vaccine-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948452160682:android:625283a73382c12aff8cd3",
+        "android_client_info": {
+          "package_name": "com.example.covid19_vaccine_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948452160682-39et704e6kvaoq3389ipabvqcc3bb77b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrGZnOpyQC_HGUAQlkzpEo3FQCiZvNOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948452160682-39et704e6kvaoq3389ipabvqcc3bb77b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
